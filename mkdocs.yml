@@ -1,0 +1,5 @@
+site_name: Indice de Recursos Genealógicos
+pages:
+    - Inicio: index.md
+    - About: about.md
+theme: readthedocs
